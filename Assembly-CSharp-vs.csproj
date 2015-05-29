@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Test.cs" />
+     <Compile Include="Assets\Scripts\MapGenerator.cs" />
+     <Compile Include="Assets\Scripts\Pacman.cs" />
+     <Compile Include="Assets\Scripts\PositionExtension.cs" />
+     <Compile Include="Assets\Scripts\SpriteAnimation.cs" />
+     <Compile Include="Assets\Scripts\WobWobAnimator.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
