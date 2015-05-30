@@ -10,6 +10,7 @@ public class SpriteAnimation : MonoBehaviour
 	private bool _colorToStart;
 	private int _spritesCount;
 	private SpriteRenderer _spriteRenderer;
+	private bool _isActive = true;
 
 	private void Start()
 	{
@@ -19,21 +20,34 @@ public class SpriteAnimation : MonoBehaviour
 
 	private void Update()
 	{
-		int specCounter = Convert.ToInt32(Time.timeSinceLevelLoad*5);
-		int stageAnimation = specCounter%_spritesCount;
-		_spriteRenderer.sprite = Sprites[stageAnimation];
-
-		if (stageAnimation == 0)
+		if (_isActive)
 		{
-			_colorToStart = !_colorToStart;
+			int specCounter = Convert.ToInt32(Time.timeSinceLevelLoad*5);
+			int stageAnimation = specCounter%_spritesCount;
+			_spriteRenderer.sprite = Sprites[stageAnimation];
+
+			if (stageAnimation == 0)
+			{
+				_colorToStart = !_colorToStart;
+			}
+
+			int specColorCounter = Convert.ToInt32(Time.timeSinceLevelLoad*10);
+			int stageColor = specColorCounter%20;
+			int stageSpecColor = stageColor < 10 ? stageColor : 20 - stageColor - 1;
+
+			_spriteRenderer.color = new Color(Mathf.Lerp(StartColor.r, EndColor.r, stageSpecColor/9f),
+				Mathf.Lerp(StartColor.g, EndColor.g, stageSpecColor/9f),
+				Mathf.Lerp(StartColor.b, EndColor.b, stageSpecColor/9f));
 		}
+	}
 
-		int specColorCounter = Convert.ToInt32(Time.timeSinceLevelLoad*10);
-		int stageColor = specColorCounter%20;
-		int stageSpecColor = stageColor < 10 ? stageColor : 20 - stageColor - 1;
+	public void Activate()
+	{
+		_isActive = true;
+	}
 
-		_spriteRenderer.color = new Color(Mathf.Lerp(StartColor.r, EndColor.r, stageSpecColor/9f),
-			Mathf.Lerp(StartColor.g, EndColor.g, stageSpecColor/9f),
-			Mathf.Lerp(StartColor.b, EndColor.b, stageSpecColor/9f));
+	public void Deactivate()
+	{
+		_isActive = false;
 	}
 }

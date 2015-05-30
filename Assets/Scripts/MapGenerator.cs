@@ -14,9 +14,8 @@ public class MapGenerator : MonoBehaviour
 	public GameObject Wall;
 	public GameObject Ball;
 	public GameObject BallPower;
+	public int CounterBall;
 	public char[,] Map { get; private set; }
-	public int PacmanX { get; private set; }
-	public int PacmanY { get; private set; }
 	private readonly Random _rnd = new Random();
 	private int _indexDungeonCube;
 
@@ -78,17 +77,13 @@ public class MapGenerator : MonoBehaviour
 				{
 					if (keyPlaces.Contains(emptyPlaceCounter))
 					{
-						if (personCounter == 0)
-						{
-							PacmanX = i;
-							PacmanY = j;
-						}
-						PutObjectToMap(Persons[personCounter], i, j);
+						PutObjectToMap(Persons[personCounter], i, j, -1);
 						personCounter++;
 					}
 					else
 					{
-						PutObjectToMap(_rnd.Next(0, 5) < 1 ? BallPower : Ball, i, j);
+						PutObjectToMap(_rnd.Next(0, 20) < 1 ? BallPower : Ball, i, j);
+						CounterBall++;
 					}
 					emptyPlaceCounter++;
 				}
@@ -96,9 +91,9 @@ public class MapGenerator : MonoBehaviour
 		}
 	}
 
-	private void PutObjectToMap(GameObject gameObj, int x, int y)
+	private void PutObjectToMap(GameObject gameObj, int x, int y, int z = 0)
 	{
-		Instantiate(gameObj, new Vector3(x - 8, y - 8), new Quaternion(0f, 0f, 0f, 0f));
+		Instantiate(gameObj, new Vector3(x - 8, y - 8, z), new Quaternion(0f, 0f, 0f, 0f));
 	}
 
 	/// <summary>

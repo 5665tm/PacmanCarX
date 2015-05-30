@@ -46,9 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Json\JSONObject.cs" />
+     <Compile Include="Assets\Scripts\CameraShake.cs" />
+     <Compile Include="Assets\Scripts\Data.cs" />
+     <Compile Include="Assets\Scripts\Ghost.cs" />
      <Compile Include="Assets\Scripts\MapGenerator.cs" />
+     <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\Pacman.cs" />
      <Compile Include="Assets\Scripts\PositionExtension.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\ShowValueFromKey.cs" />
      <Compile Include="Assets\Scripts\SpriteAnimation.cs" />
      <Compile Include="Assets\Scripts\WobWobAnimator.cs" />
  <Reference Include="UnityEngine.UI">
