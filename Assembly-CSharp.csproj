@@ -47,17 +47,25 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Json\JSONObject.cs" />
-     <Compile Include="Assets\Scripts\CameraShake.cs" />
-     <Compile Include="Assets\Scripts\Data.cs" />
-     <Compile Include="Assets\Scripts\Ghost.cs" />
-     <Compile Include="Assets\Scripts\MapGenerator.cs" />
-     <Compile Include="Assets\Scripts\Menu.cs" />
-     <Compile Include="Assets\Scripts\Pacman.cs" />
-     <Compile Include="Assets\Scripts\PositionExtension.cs" />
-     <Compile Include="Assets\Scripts\ScoreManager.cs" />
-     <Compile Include="Assets\Scripts\ShowValueFromKey.cs" />
-     <Compile Include="Assets\Scripts\SpriteAnimation.cs" />
-     <Compile Include="Assets\Scripts\WobWobAnimator.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraShake.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\Ghost.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\Pacman.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\PersonAbstract.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\SpriteAnimation.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\WobWobAnimator.cs" />
+     <Compile Include="Assets\Scripts\Helpers\Data.cs" />
+     <Compile Include="Assets\Scripts\Helpers\PositionExtension.cs" />
+     <Compile Include="Assets\Scripts\Interface\ActivateContinueButton.cs" />
+     <Compile Include="Assets\Scripts\Interface\ButtonPause.cs" />
+     <Compile Include="Assets\Scripts\Interface\ButtonSoundOnOff.cs" />
+     <Compile Include="Assets\Scripts\Interface\Menu.cs" />
+     <Compile Include="Assets\Scripts\Interface\MouseClickLoadLevel.cs" />
+     <Compile Include="Assets\Scripts\Interface\SaveStateGotoMenu.cs" />
+     <Compile Include="Assets\Scripts\Interface\ShowValueFromKey.cs" />
+     <Compile Include="Assets\Scripts\Managed\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Managed\MapGenerator.cs" />
+     <Compile Include="Assets\Scripts\Managed\MapManager.cs" />
+     <Compile Include="Assets\Scripts\Managed\ScoreManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,0 +1,1377 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7660D (ID=0x9901)
+    Vendor:   ATI
+    VRAM:     479 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 60Hz; virtual: 3840x1200 at -1920,0
+<RI> Initialized touch support.
+Platform assembly: C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Desktop\Pacman42Hours\Game\Pacman_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.984222 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.563688 ms (FindLiveObjects: 0.120266 ms CreateObjectMapping: 0.035688 ms MarkObjects: 0.384755 ms  DeleteObjects: 0.015155 ms)
+
+{"Map":"##################               ##  # #   #      ##               ##    #   #   ## ##    #   #   ## ##    #          ##        #    # ## #  #          ##             # ## #  # #      # ## #        ## # ## #             ## #  ### # ## # ## #  ###        ## #             ##################","Score":-1,"Person0":"-3:-6","Person1":"0:-5","Person2":"0:7","Person3":"0:7","Person4":"3:1","Person5":"7:4","Balls":"-7:-7 -7:-6 -7:-5 -7:-4 -7:-3 -7:-2 -7:-1 -7:0 -7:1 -7:2 -7:3 -7:4 -7:5 -7:6 -7:7 -6:-7 -6:-6 -6:-4 -6:-2 -6:-1 -6:0 -6:2 -6:3 -6:4 -6:5 -6:6 -6:7 -5:-7 -5:-6 -5:-5 -5:-4 -5:-3 -5:-2 -5:-1 -5:0 -5:1 -5:2 -5:3 -5:4 -5:5 -5:6 -5:7 -4:-7 -4:-6 -4:-5 -4:-4 -4:-2 -4:-1 -4:0 -4:2 -4:3 -4:4 -4:7 -3:-7 -3:-5 -3:-4 -3:-2 -3:-1 -3:0 -3:2 -3:3 -3:4 -3:7 -2:-7 -2:-6 -2:-5 -2:-4 -2:-2 -2:-1 -2:0 -2:1 -2:2 -2:3 -2:4 -2:5 -2:6 -2:7 -1:-7 -1:-6 -1:-5 -1:-4 -1:-3 -1:-2 -1:-1 -1:0 -1:2 -1:3 -1:4 -1:5 -1:7 0:-7 0:-5 0:-2 0:-1 0:0 0:1 0:2 0:3 0:4 0:5 0:7 1:-7 1:-6 1:-5 1:-4 1:-3 1:-2 1:-1 1:0 1:1 1:2 1:3 1:4 1:5 1:7 2:-7 2:-5 2:-4 2:-2 2:0 2:3 2:4 2:5 2:7 3:-7 3:-5 3:-3 3:-2 3:-1 3:0 3:2 3:5 4:-7 4:-5 4:-4 4:-3 4:-2 4:-1 4:0 4:2 4:3 4:4 4:5 4:6 4:7 5:-7 5:-5 5:-4 5:0 5:2 5:7 6:-7 6:-5 6:-4 6:0 6:1 6:2 6:3 6:4 6:5 6:7 7:-7 7:-5 7:-4 7:-3 7:-1 7:0 7:1 7:2 7:3 7:4 7:5 7:6 7:7","PowerBalls":"2:1 2:2 3:-4 3:1 6:6 7:-2"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.789333 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.330488 ms (FindLiveObjects: 0.025911 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.263022 ms  DeleteObjects: 0.018088 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698133 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.557822 ms (FindLiveObjects: 0.108044 ms CreateObjectMapping: 0.039600 ms MarkObjects: 0.387688 ms  DeleteObjects: 0.014666 ms)
+
+{"Map":"##################               ##  # #   #      ##               ##    #   #   ## ##    #   #   ## ##    #          ##        #    # ## #  #          ##             # ## #  # #      # ## #        ## # ## #             ## #  ### # ## # ## #  ###        ## #             ##################","Score":-3,"Person0":"-3:-6","Person1":"-1:-5","Person2":"3:7","Person3":"-1:7","Person4":"2:1","Person5":"6:2","Balls":"-7:-7 -7:-6 -7:-5 -7:-4 -7:-3 -7:-2 -7:-1 -7:0 -7:1 -7:2 -7:3 -7:4 -7:5 -7:6 -7:7 -6:-7 -6:-6 -6:-4 -6:-2 -6:-1 -6:0 -6:2 -6:3 -6:4 -6:5 -6:6 -6:7 -5:-7 -5:-6 -5:-5 -5:-4 -5:-3 -5:-2 -5:-1 -5:0 -5:1 -5:2 -5:3 -5:4 -5:5 -5:6 -5:7 -4:-7 -4:-6 -4:-5 -4:-4 -4:-2 -4:-1 -4:0 -4:2 -4:3 -4:4 -4:7 -3:-7 -3:-5 -3:-4 -3:-2 -3:-1 -3:0 -3:2 -3:3 -3:4 -3:7 -2:-7 -2:-6 -2:-5 -2:-4 -2:-2 -2:-1 -2:0 -2:1 -2:2 -2:3 -2:4 -2:5 -2:6 -2:7 -1:-7 -1:-6 -1:-5 -1:-4 -1:-3 -1:-2 -1:-1 -1:0 -1:2 -1:3 -1:4 -1:5 -1:7 0:-7 0:-5 0:-2 0:-1 0:0 0:1 0:2 0:3 0:4 0:5 0:7 1:-7 1:-6 1:-5 1:-4 1:-3 1:-2 1:-1 1:0 1:1 1:2 1:3 1:4 1:5 1:7 2:-7 2:-5 2:-4 2:-2 2:0 2:3 2:4 2:5 2:7 3:-7 3:-5 3:-3 3:-2 3:-1 3:0 3:2 3:5 4:-7 4:-5 4:-4 4:-3 4:-2 4:-1 4:0 4:2 4:3 4:4 4:5 4:6 4:7 5:-7 5:-5 5:-4 5:0 5:2 5:7 6:-7 6:-5 6:-4 6:0 6:1 6:2 6:3 6:4 6:5 6:7 7:-7 7:-5 7:-4 7:-3 7:-1 7:0 7:1 7:2 7:3 7:4 7:5 7:6 7:7","PowerBalls":"2:1 2:2 3:-4 3:1 6:6 7:-2"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.785422 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.365688 ms (FindLiveObjects: 0.028844 ms CreateObjectMapping: 0.019555 ms MarkObjects: 0.286000 ms  DeleteObjects: 0.023955 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510888 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.514311 ms (FindLiveObjects: 0.099244 ms CreateObjectMapping: 0.035688 ms MarkObjects: 0.356400 ms  DeleteObjects: 0.017111 ms)
+
+180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.665155 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.304088 ms (FindLiveObjects: 0.024444 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.239066 ms  DeleteObjects: 0.018088 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555377 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.366666 ms (FindLiveObjects: 0.031288 ms CreateObjectMapping: 0.016622 ms MarkObjects: 0.301155 ms  DeleteObjects: 0.010266 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.442933 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.387200 ms (FindLiveObjects: 0.034222 ms CreateObjectMapping: 0.020044 ms MarkObjects: 0.317288 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478622 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.510888 ms (FindLiveObjects: 0.098755 ms CreateObjectMapping: 0.035200 ms MarkObjects: 0.355422 ms  DeleteObjects: 0.014177 ms)
+
+{"Map":"##################               ##               ##  ###   #  #   ##               ##  ###   #  #   ##               ##               ##         ####  ##         ####  ##         ####  ## ## #    ####  ##            #  ## #### #        ## #### #  ## # ###              ###################","Score":-2,"Person0":"-5:-6","Person1":"-4:0","Person2":"-7:-1","Person3":"-3:5","Person4":"2:-2","Person5":"5:2","Balls":"-7:-7 -7:-6 -7:-4 -7:-3 -7:-1 -7:0 -7:1 -7:2 -7:3 -7:4 -7:5 -7:6 -7:7 -6:-7 -6:-5 -6:-4 -6:-3 -6:-2 -6:-1 -6:0 -6:1 -6:2 -6:3 -6:4 -6:5 -6:6 -6:7 -5:-7 -5:-2 -5:-1 -5:0 -5:2 -5:5 -5:6 -5:7 -4:-7 -4:-6 -4:-5 -4:-4 -4:-3 -4:-2 -4:0 -4:2 -4:3 -4:4 -4:5 -4:6 -4:7 -3:-7 -3:-6 -3:-2 -3:-1 -3:0 -3:2 -3:3 -3:5 -3:7 -2:-7 -2:-6 -2:-5 -2:-4 -2:-3 -2:-2 -2:-1 -2:0 -2:1 -2:2 -2:3 -2:4 -2:5 -2:6 -2:7 -1:-7 -1:-6 -1:-5 -1:-4 -1:-3 -1:-2 -1:-1 -1:0 -1:1 -1:2 -1:3 -1:4 -1:5 -1:6 -1:7 0:-7 0:-6 0:-5 0:-4 0:-3 0:-2 0:-1 0:0 0:1 0:6 0:7 1:-6 1:-5 1:-4 1:-3 1:0 1:1 1:6 1:7 2:-7 2:-6 2:-5 2:-4 2:-3 2:-2 2:-1 2:0 2:1 2:6 2:7 3:-7 3:-4 3:-2 3:-1 3:0 3:1 3:6 3:7 4:-7 4:-6 4:-5 4:-4 4:-3 4:-2 4:-1 4:0 4:1 4:2 4:3 4:4 4:6 4:7 5:-7 5:-2 5:0 5:1 5:2 5:3 5:4 5:5 5:6 5:7 6:-7 6:-2 6:0 6:1 6:4 6:6 7:-7 7:-6 7:-5 7:-4 7:-3 7:-2 7:-1 7:0 7:1 7:2 7:4 7:5 7:6","PowerBalls":"-7:-5 -7:-2 -6:-6 -5:3 1:-7 1:-1"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.522400 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.340266 ms (FindLiveObjects: 0.025911 ms CreateObjectMapping: 0.016622 ms MarkObjects: 0.274266 ms  DeleteObjects: 0.017111 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.609155 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.528000 ms (FindLiveObjects: 0.109022 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.363244 ms  DeleteObjects: 0.011733 ms)
+
+173
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+{"Map":"##################               ##               ##  ###   #  #   ##               ##  ###   #  #   ##               ##               ##         ####  ##         ####  ##         ####  ## ## #    ####  ##            #  ## #### #        ## #### #  ## # ###              ###################","Score":16,"Person0":"-6:-6","Person1":"0:-1","Person2":"-7:-4","Person3":"-3:6","Person4":"2:-3","Person5":"4:2","Balls":"-7:-7 -7:-6 -7:-4 -7:-3 -7:-1 -7:0 -7:1 -7:2 -7:3 -7:4 -7:5 -7:6 -7:7 -6:-7 -6:-5 -6:-4 -6:-3 -6:-2 -6:-1 -6:0 -6:1 -6:2 -6:3 -6:4 -6:5 -6:6 -6:7 -5:-7 -5:-2 -5:-1 -5:0 -5:2 -5:5 -5:6 -5:7 -4:-7 -4:-6 -4:-5 -4:-4 -4:-3 -4:-2 -4:0 -4:2 -4:3 -4:4 -4:5 -4:6 -4:7 -3:-7 -3:-6 -3:-2 -3:-1 -3:0 -3:2 -3:3 -3:5 -3:7 -2:-7 -2:-6 -2:-5 -2:-4 -2:-3 -2:-2 -2:-1 -2:0 -2:1 -2:2 -2:3 -2:4 -2:5 -2:6 -2:7 -1:-7 -1:-6 -1:-5 -1:-4 -1:-3 -1:-2 -1:-1 -1:0 -1:1 -1:2 -1:3 -1:4 -1:5 -1:6 -1:7 0:-7 0:-6 0:-5 0:-4 0:-3 0:-2 0:-1 0:0 0:1 0:6 0:7 1:-6 1:-5 1:-4 1:-3 1:0 1:1 1:6 1:7 2:-7 2:-6 2:-5 2:-4 2:-3 2:-2 2:-1 2:0 2:1 2:6 2:7 3:-7 3:-4 3:-2 3:-1 3:0 3:1 3:6 3:7 4:-7 4:-6 4:-5 4:-4 4:-3 4:-2 4:-1 4:0 4:1 4:2 4:3 4:4 4:6 4:7 5:-7 5:-2 5:0 5:1 5:2 5:3 5:4 5:5 5:6 5:7 6:-7 6:-2 6:0 6:1 6:4 6:6 7:-7 7:-6 7:-5 7:-4 7:-3 7:-2 7:-1 7:0 7:1 7:2 7:4 7:5 7:6","PowerBalls":"-7:-5 -7:-2 -5:3 1:-7 1:-1"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.583511 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.344177 ms (FindLiveObjects: 0.026400 ms CreateObjectMapping: 0.015644 ms MarkObjects: 0.276222 ms  DeleteObjects: 0.016622 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487911 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1737.
+Total: 0.511866 ms (FindLiveObjects: 0.100222 ms CreateObjectMapping: 0.035200 ms MarkObjects: 0.354933 ms  DeleteObjects: 0.014177 ms)
+
+172
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+170
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+169
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+168
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+167
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+166
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+165
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+164
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+163
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+163
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+161
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+160
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+159
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+157
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+156
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+156
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+155
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+154
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+153
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+152
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+151
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+150
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+149
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+148
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+147
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+146
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+146
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+145
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+144
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+143
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+142
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+141
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+140
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+139
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+137
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+136
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+135
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+134
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+133
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+131
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+130
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+129
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+128
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+127
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+124
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+123
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+123
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.960444 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.333422 ms (FindLiveObjects: 0.027866 ms CreateObjectMapping: 0.020044 ms MarkObjects: 0.257155 ms  DeleteObjects: 0.019555 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487422 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.360800 ms (FindLiveObjects: 0.032266 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.294311 ms  DeleteObjects: 0.009288 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.645822 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.600355 ms (FindLiveObjects: 0.104622 ms CreateObjectMapping: 0.042533 ms MarkObjects: 0.431200 ms  DeleteObjects: 0.014666 ms)
+
+170
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+169
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+168
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+167
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+166
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+165
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+164
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+163
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+161
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+161
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+160
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+159
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+157
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+156
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+155
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+154
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+153
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+152
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+151
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+150
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+149
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+148
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+147
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+146
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+145
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+144
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+143
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+142
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+141
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+140
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+139
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+137
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+136
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+135
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+134
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+133
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+131
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+130
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+129
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+128
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+127
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+124
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+123
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+122
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+119
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+118
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+117
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+116
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+115
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+114
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+113
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+111
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+110
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+109
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+108
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+107
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+104
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+103
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+102
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+99
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+98
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+97
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+95
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+94
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+93
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+92
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+91
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+89
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+88
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+87
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+86
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+85
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+84
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+83
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+82
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+81
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+79
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+77
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+76
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+74
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+73
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+72
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+69
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+68
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+67
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+66
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+64
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+63
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+61
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+61
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.072622 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.334400 ms (FindLiveObjects: 0.026400 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.264977 ms  DeleteObjects: 0.019555 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.441955 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.344177 ms (FindLiveObjects: 0.030800 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.280133 ms  DeleteObjects: 0.009777 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.561733 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 0.536800 ms (FindLiveObjects: 0.109511 ms CreateObjectMapping: 0.047422 ms MarkObjects: 0.360800 ms  DeleteObjects: 0.012711 ms)
+
+121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+119
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+118
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+117
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+116
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+115
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+114
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+113
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+111
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+110
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+109
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+108
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+107
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+104
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+103
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+102
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+99
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+98
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+{"Map":"##################               ## ### ########  ##           ##  ## ###  ### ###  ##  ##           ##      ### #### ##  ##  ###      ##               ##  ##  ######## ##  ##  ######## ##  ##  ######## ##  ##  ######## ##  ##  ######## ## ###  ######## ##               ##################","Score":216,"Person0":"-1:-2","Person1":"-7:0","Person2":"-5:0","Person3":"-3:-6","Person4":"0:6","Person5":"null","Balls":"-7:-1 -7:0 -7:1 -7:4 -7:7 -6:-3 -6:6 -6:7 -5:-6 -5:-5 -5:-4 -5:-3 -5:-1 -5:0 -5:1 -5:3 -5:6 -5:7 -4:-3 -4:-2 -4:2 -4:6 -4:7 -3:-6 -3:-3 -3:-2 -3:-1 -3:0 -3:1 -3:2 -3:3 -3:4 -3:5 -3:6 -3:7 -2:2 -2:7 -1:-6 -1:-3 -1:2 -1:3 -1:4 -1:5 -1:6 -1:7 0:-6 0:-5 0:-4 0:-3 0:-2 0:-1 0:3 0:4 0:5 0:6 0:7 1:-6 1:-3 1:7 2:-3 2:7 3:-3 3:-2 3:7 4:-3 4:-2 4:7 5:-6 5:-3 5:-2 5:7 6:-7 6:-3 6:-2 6:7 7:-6 7:-5 7:-4 7:-3 7:-2 7:-1 7:0 7:1 7:2 7:3 7:4 7:5 7:6 7:7","PowerBalls":"-7:3 -7:5 -7:6 -5:-2 0:0 0:2 1:-2 2:-2 7:-7"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.507244 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.380844 ms (FindLiveObjects: 0.028355 ms CreateObjectMapping: 0.020533 ms MarkObjects: 0.307511 ms  DeleteObjects: 0.017111 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672711 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 0.489377 ms (FindLiveObjects: 0.099244 ms CreateObjectMapping: 0.035688 ms MarkObjects: 0.335377 ms  DeleteObjects: 0.011244 ms)
+
+97
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+95
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+94
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+93
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+92
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+91
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+89
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+88
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+87
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+86
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+85
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+84
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+83
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+82
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+81
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+81
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+79
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+77
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+76
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+74
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+73
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+72
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+69
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+68
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+67
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+66
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+64
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+63
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+61
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+59
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+58
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+57
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+56
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+54
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+52
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+49
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+47
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+46
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+45
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+43
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+42
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+34
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+31
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+29
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+27
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.156711 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.326577 ms (FindLiveObjects: 0.025911 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.257644 ms  DeleteObjects: 0.019555 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.442444 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.351022 ms (FindLiveObjects: 0.032266 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.285511 ms  DeleteObjects: 0.010755 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.551466 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.327066 ms (FindLiveObjects: 0.031288 ms CreateObjectMapping: 0.017111 ms MarkObjects: 0.254222 ms  DeleteObjects: 0.016133 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.549511 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.367155 ms (FindLiveObjects: 0.032266 ms CreateObjectMapping: 0.020044 ms MarkObjects: 0.296266 ms  DeleteObjects: 0.011733 ms)
+
